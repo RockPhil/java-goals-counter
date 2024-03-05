@@ -1,0 +1,61 @@
+body {
+
+    background-image: url(images/premium_photo-1673126680487-3e42263d9603.avif);
+    background-size: cover;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+
+    margin-top: 100px;
+    color:maroon;
+}
+h2{
+
+    margin-top: 150px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+h3{
+
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+
+button {
+
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    color: white;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+#increment-btn {
+
+    background: darkred;
+}
+
+#save-btn {
+
+    background: green;
+}
+
+#decrement-btn {
+
+    background: darkred;
+}
+
+#saver-btn {
+
+    background: green;
+}
